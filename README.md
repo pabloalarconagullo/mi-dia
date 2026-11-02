@@ -35,3 +35,7 @@ No necesita instalación ni compilación: son archivos HTML/CSS/JS estáticos.
 - `css/styles.css`: sistema de diseño (tokens de color claro/oscuro, tipografía, componentes). Las pantallas usan clases compartidas (`card`, `btn`, `input`, `list`, `chip`, `tabs`…).
 - Tipografía: Plus Jakarta Sans (licencia SIL OFL, `fonts/OFL.txt`), incluida en la app para funcionar sin conexión.
 - Iconos de navegación: Lucide (licencia ISC), en `js/icons.js`.
+
+## Licencia
+
+Código bajo licencia [MIT](LICENSE). La tipografía (SIL OFL) y los iconos (ISC) mantienen sus propias licencias.
